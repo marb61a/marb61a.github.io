@@ -1,1 +1,9 @@
+title:        "Martin Byrne"
+tagline:      "random stuff"
+url:          http://marb61a.github.io
+author:
+  name:       "Martin Byrne"
+  email:      "marb61a@gmail.com"
+markdown:     kramdown
+permalink:    /posts/:title
 theme: jekyll-theme-leap-day
