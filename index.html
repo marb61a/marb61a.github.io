@@ -1,8 +1,18 @@
 ---
 layout: default
-title: Hi, I am Martin
 ---
-<div class="blurb">
-	<h1>Hi there, I'm Martin!</h1>
-	<p><a href="/about">Read more ...</a></p>
+
+<div class="posts">
+  {% for post in site.posts %}
+    <div class="post-overview">
+      <h3>
+        <a href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h3>
+
+      <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    </div>
+  {% endfor %}
 </div>
