@@ -22,11 +22,11 @@ Ruby, Rails, MongoDB, Firebase, Parse, PostgreSQL
 
 I have some sample projects deployed
 
-[](https://railstastyrecipes.herokuapp.com)
+(https://railstastyrecipes.herokuapp.com)
 
-[](https://stocks-tracker.herokuapp.com/users/sign_in)
+(https://stocks-tracker.herokuapp.com/users/sign_in)
 
-[](https://webworkouts.herokuapp.com)
+(https://webworkouts.herokuapp.com)
 
 
 **EXPERIENCE**
