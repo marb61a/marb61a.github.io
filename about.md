@@ -20,13 +20,18 @@ Angular/AngularJS, React&React Native, Redux, Meteor, Node, Ionic
 C#, ASP.Net, Linq, Python, Flask, Django, HTML5, CSS, SCSS/SASS
 Ruby, Rails, MongoDB, Firebase, Parse, PostgreSQL
 
-I have some sample projects deployed
+I have some sample projects deployed on Heroku for demonstaration puropses
 
-(https://railstastyrecipes.herokuapp.com)
 
-(https://stocks-tracker.herokuapp.com/users/sign_in)
+**####Javascript Projects**
 
-(https://webworkouts.herokuapp.com)
+**####Rails Projects**
+
+[https://railstastyrecipes.herokuapp.com]
+
+[https://stocks-tracker.herokuapp.com/users/sign_in]
+
+[https://webworkouts.herokuapp.com]
 
 
 **EXPERIENCE**
@@ -35,10 +40,11 @@ I have a variety of experience within IT
   - Developing apps
   - Digital Marketing
   - Hardware & Software maintenance, installation and repair
+  - 
 
 
 **EDUCATION**
-I am a firm believer in further education, some sample course diplomas from courses I have completed are 
+I am a firm believer in further education, I have diplomas in Project Management, Business & E-Business Management, Frontline People Management, Computer programming(C#) & Android Development some recent sample course diplomas from courses I have completed are available
 
 Social Media Management - [SO ME Academy](https://drive.google.com/file/d/0B2-8nmrv8gVuX1VVZHh2MEloLW8/view?usp=sharing)
 
@@ -47,3 +53,5 @@ Social Media Strategist - [Career Academy](https://drive.google.com/file/d/0B2-8
 Landing Page Design - [Udemy](https://drive.google.com/file/d/0B2-8nmrv8gVuekVDbHJaczAtTU0/view?usp=sharing)
 
 Web Development - [YouAccel](https://drive.google.com/open?id=0B2-8nmrv8gVub2tUam5Na2l3UlU)
+
+I also maintain subscriptions will many of the leading E-Learning platforms such as Career Academy and Udemy
