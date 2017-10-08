@@ -1,22 +1,24 @@
 **PROJECTS**
-I am constantly experimenting with technologies to keep up to date with the latest and
-best in the field. I have numerous projects here on Github as well as elsewhere. Some of the 
-technologies used in the projects are - 
+I am constantly experimenting with technologies to keep up to date with the latest developments and trends. I have numerous projects here on Github as well as elsewhere. As I use a range of OS (Various Windows versions & Linux distros) I use
+the Cloud9 IDE a lot for projects. I am available for collaboration at my Cloud 9 address
+  - (https://c9.io/marb)
+
+Some of the technologies that are used in the projects are - 
 
 ***Javascript***
-Angular/AngularJS, React&React Native, Redux, Meteor, Node, Ionic, Gulp, Webpack, NPM etc
+- Angular/AngularJS, React&React Native, Redux, Meteor, Node, Ionic, Gulp, Webpack, NPM etc
 
 ***DotNet***
-C#, ASP.Net, Linq
+- C#, ASP.Net, Linq
 
 ***Python***
-Flask, Django, 
+- Flask, Django, 
 
 ***General Web Development***
-HTML5, CSS, SCSS/SASS
+ - HTML5, CSS, SCSS/SASS
 
-***Ruby**
-Ruby, Rails, TDD
+***Ruby***
+ - Ruby, Rails, TDD
 
 ***Databases***
 MongoDB, Firebase, Parse, PostgreSQL
@@ -25,7 +27,7 @@ Below are some sample projects deployed for demonstration puropses
 
 
 **Javascript Projects**
-* [https://fullstackreactnode.herokuapp.com]
+* [full stack react node app] (https://fullstackreactnode.herokuapp.com)
 
 *[]
 
@@ -34,9 +36,9 @@ Below are some sample projects deployed for demonstration puropses
 
 **Rails Projects**
 
-* [https://railstastyrecipes.herokuapp.com]
+* [rails recipes app] (https://railstastyrecipes.herokuapp.com)
 
-* [https://stocks-tracker.herokuapp.com/users/sign_in]
+* [stock tracker] (https://stocks-tracker.herokuapp.com/users/sign_in)
 
 * [https://webworkouts.herokuapp.com]
 
