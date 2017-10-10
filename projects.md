@@ -6,28 +6,22 @@ the Cloud9 IDE a lot for projects. I am available for collaboration at my Cloud 
 Some of the technologies that are used in the projects are - 
 
 ***Javascript***
-- Angular/AngularJS, React&React Native, Redux, Meteor, Node, Ionic, Gulp, Webpack, NPM etc
-
-***DotNet***
-- C#, ASP.Net, Linq
-
-***Python***
-- Flask, Django, 
+- Angular/AngularJS, React&React Native, Meteor, Node, Ionic, Electron, Vue, Gulp, Webpack, NPM etc
 
 ***General Web Development***
- - HTML5, CSS, SCSS/SASS
+ - HTML5, CSS and related frameworks
 
 ***Ruby***
  - Ruby, Rails, TDD
 
 ***Databases***
-MongoDB, Firebase, Parse, PostgreSQL
+  - MongoDB, Firebase, Parse, PostgreSQL
 
 Below are some sample projects deployed for demonstration puropses
 
 
 **Javascript Projects**
-* [full stack react node app] (https://fullstackreactnode.herokuapp.com)
+* [react node app] (https://fullstackreactnode.herokuapp.com)
 
 *[]
 
