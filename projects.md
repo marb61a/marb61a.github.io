@@ -1,6 +1,5 @@
 **PROJECTS**
-I am constantly experimenting with technologies to keep up to date with the latest developments and trends. I have numerous projects here on Github as well as elsewhere. As I use a range of OS (Various Windows versions & Linux distros) I use
-the Cloud9 IDE a lot for projects. I am available for collaboration at my Cloud 9 address
+I am constantly experimenting and evaluating technologies to keep up to date with the latest developments and trends across web and mobile development and to this end I have numerous projects here on Github as well as elsewhere. As I use a range of OS (Various Windows versions & Linux distros) I use the Cloud9 IDE a lot for projects. I am available for collaboration at my Cloud 9 address
   - (https://c9.io/marb)
 
 Some of the technologies that are used in the projects are - 
@@ -10,9 +9,6 @@ Some of the technologies that are used in the projects are -
 
 ***General Web Development***
  - HTML5, CSS and related frameworks
-
-***Ruby***
- - Ruby, Rails, TDD
 
 ***Databases***
   - MongoDB, Firebase, Parse, PostgreSQL
@@ -37,5 +33,5 @@ Below are some sample projects deployed for demonstration puropses
 * [https://webworkouts.herokuapp.com]
 
 
-This list is a constantly evolving one so changes will occur often
+This list is a constantly evolving one so changes will occur on a regular basis
 
