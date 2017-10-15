@@ -2,14 +2,12 @@
 
 Hi my name is Martin, I live in Dublin, Ireland and this is my website coutesy of GitHub pages.
 I will be putting up some tutorials, links etc covering a wide variety of 
-tech related subjects. I am interested in a wide variety of technology related 
-subjects such as
-..Web & Mobile Development
-..Security
-..Machine Learning
-..Artificial Intelligence
-Aside from technology I can usually be found annoying somebody about various sports 
-and music
+tech related subjects. I am interested in a wide variety of technology related subjects mainly within
+  - Web & Mobile Development
+  - Security
+
+Aside from technology I can usually be found annoying somebody about various sports particularly football 
+and music of various types.
 
 **EXPERIENCE**
 I have a variety of work experience both within IT and in different sectors
@@ -20,17 +18,15 @@ I have a variety of work experience both within IT and in different sectors
   - Project Work
   - Training
   - Working with contractors and onsite visits.
-  - Extensive experience of working with customers of a wide variety
+  - Extensive experience of working with customers of a wide variety of backgrounds
   - Electronics
 
 **EDUCATION**
-I am a firm believer in further and continuing education, on the formal side  I have diplomas in 
-  - Project Management
+I am a firm believer in further and continuing education, on the formal side I have several diplomas covering
   - Business & E-Business Management
-  - Frontline & People Management
   - Electronic Manufacturing
   - Customer Service
-  - Computer programming(C#)
+  - Project Management
   - Android Development(Java) 
 
 Some recent sample e-learning course diplomas are available at the following addresses
