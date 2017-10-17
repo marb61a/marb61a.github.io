@@ -1,12 +1,14 @@
 **ABOUT ME**
 
-Hi my name is Martin, I live in Dublin, Ireland and this is my website coutesy of GitHub pages.
-I will be putting up some tutorials, links etc covering a wide variety of 
-tech related subjects. I am interested in a wide variety of technology related subjects mainly within
+Hi my name is Martin, I live in Dublin, Ireland and this is my site coutesy of GitHub pages.
+I am interested in a wide variety of technology related subjects mainly within
   - Web & Mobile Development
   - Security
+At the moment I am exploring the rather large and expanding Javascript ecosystem from Node JS on the server to
+Ionic & React Native on mobile devices and from old favourites such as jQuery through to newer libraries such as
+RxJS and functional programming.
 
-Aside from technology I can usually be found annoying somebody about various sports particularly football 
+Aside from technology I can usually be found annoying some poor soul about various sports matters particularly football 
 and music of various types.
 
 **EXPERIENCE**
