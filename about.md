@@ -4,6 +4,7 @@ Hi my name is Martin, I live in Dublin, Ireland and this is my site coutesy of G
 I am interested in a wide variety of technology related subjects mainly within
   - Web & Mobile Development
   - Security
+
 At the moment I am exploring the rather large and expanding Javascript ecosystem from Node JS on the server to
 Ionic & React Native on mobile devices and from old favourites such as jQuery through to newer libraries such as
 RxJS and functional programming.
