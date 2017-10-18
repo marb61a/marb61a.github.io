@@ -1,5 +1,7 @@
 **PROJECTS**
-I am constantly experimenting and evaluating technologies to keep up to date with the latest developments and trends across web and mobile development and to this end I have numerous projects here on Github as well as elsewhere. As I use a range of OS (Various Windows versions & Linux distros) I use the Cloud9 IDE a lot for projects. I am available for collaboration at my Cloud 9 address
+I am constantly experimenting and evaluating technologies to keep up to date with the latest developments and trends across web and mobile development and to this end I have numerous projects here on Github as well as elsewhere. As I use a range of OS (Various Windows versions & Linux distros) I use the Cloud9 IDE a lot for projects. 
+
+I am available for collaboration at my Cloud 9 address which is located at
   - (https://c9.io/marb)
 
 Some of the technologies that are used in the projects are - 
@@ -13,11 +15,12 @@ Some of the technologies that are used in the projects are -
 ***Databases***
   - MongoDB, Firebase, Parse, PostgreSQL
 
+
 Below are some sample projects deployed for demonstration puropses
 
 
 **Javascript Projects**
-* [react node app] (https://fullstackreactnode.herokuapp.com)
+* [react node app] [https://fullstackreactnode.herokuapp.com]
 
 *[]
 
@@ -26,11 +29,11 @@ Below are some sample projects deployed for demonstration puropses
 
 **Rails Projects**
 
-* [rails recipes app] (https://railstastyrecipes.herokuapp.com)
+[rails recipes app] [https://railstastyrecipes.herokuapp.com]
 
-* [stock tracker] (https://stocks-tracker.herokuapp.com/users/sign_in)
+[stock tracker] [https://stocks-tracker.herokuapp.com/users/sign_in]
 
-* [https://webworkouts.herokuapp.com]
+[Rails workout app ][https://webworkouts.herokuapp.com]
 
 
 This list is a constantly evolving one so changes will occur on a regular basis
