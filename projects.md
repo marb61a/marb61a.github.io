@@ -4,19 +4,26 @@ I am constantly experimenting and evaluating technologies to keep up to date wit
 I am available for collaboration at my Cloud 9 address which is located at
   - (https://c9.io/marb)
 
-Some of the technologies that are used in the projects are - 
+A non-exhaustive list of the technologies that are used in the projects are - 
 
 ***Javascript***
-- Angular/AngularJS, React&React Native, Meteor, Node, Ionic, Electron, Vue, Gulp, Webpack, NPM etc
+- Angular/AngularJS, React & React Native, Meteor, Node, Ionic, Electron, Vue, JQuery
+- Gulp, Webpack, NPM, Yarn, JWT
+
+***PHP***
+- Laravel, Wordpress
 
 ***General Web Development***
- - HTML5, CSS and related frameworks
+ - HTML5, CSS3, Bootstrap 3 & 4, Foundation 6
 
 ***Databases***
-  - MongoDB, Firebase, Parse, PostgreSQL
+  - MongoDB, Firebase, PostgreSQL, Redis
+  
+***General Development***
+   - Git, DNS, OAuth, Authentication, Security, PWA, SPA, REST, GraphQL
 
 
-Below are some sample projects deployed for demonstration puropses
+Below are some sample projects deployed for demonstration purposes
 
 
 **Javascript Projects**
