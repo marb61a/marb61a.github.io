@@ -27,7 +27,7 @@ Below are some sample projects deployed for demonstration purposes
 
 
 **Javascript Projects**
-* [react node app] [https://fullstackreactnode.herokuapp.com]
+* [react node app](https://fullstackreactnode.herokuapp.com)
 
 *[]
 
@@ -36,11 +36,11 @@ Below are some sample projects deployed for demonstration purposes
 
 **Rails Projects**
 
-[rails recipes app] [https://railstastyrecipes.herokuapp.com]
+[rails recipes app](https://railstastyrecipes.herokuapp.com)
 
-[stock tracker] [https://stocks-tracker.herokuapp.com/users/sign_in]
+[stock tracker](https://stocks-tracker.herokuapp.com/users/sign_in)
 
-[Rails workout app ][https://webworkouts.herokuapp.com]
+[Rails workout app ](https://webworkouts.herokuapp.com)
 
 
 This list is a constantly evolving one so changes will occur on a regular basis
