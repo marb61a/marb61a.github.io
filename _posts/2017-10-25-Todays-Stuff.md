@@ -18,11 +18,13 @@ date: 2017-10-25
   people to learn and use. I cannot recommend highly enough Brad Traversy's channel on Youtube for anybody starting out as it
   gives a wide array of tutorials to get people building small projects which can help build their confidence and help them
   decide which technology they may want to use further.
+  
     - https://www.youtube.com/user/TechGuyWeb
 
 **CSS**
   I am finally starting to realise how complex CSS and styling can be, for a non design person this can be very intimidating
   but there are some really great sites such as 
+  
     - https://www.smashingmagazine.com
     - https://rachelandrew.co.uk
     - http://csskarma.com
