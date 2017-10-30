@@ -21,8 +21,10 @@ date: 2017-10-30
   I am a big fan of the idea of Deliberate Practice, which is from the work of Swedish psychologist K. Anders Ericsson, his 
   paper The Role of Deliberate Practice in the Acquisition of Expert Performance basically states that expert-level 
   performance is primarily the result of expert-level practice NOT due to innate talent. This has huge implications for a lot
-  of fields especially IT when sometimes people are told that someone is more talented for example et programming when it may
-  simply be that the person regarded as being more talented is simply practicing better 
+  of fields especially IT when sometimes people are told that someone is more talented for example programming when it may
+  simply be the case that the person regarded as being more talented is simply practicing better, that would be very 
+  interesting on several levels. It might also show that rock star programmers are rock star practicers and have as much to
+  teach about their practicing routines as about the development process.
 
 
 **Good Reads**
