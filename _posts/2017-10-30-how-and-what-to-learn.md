@@ -8,8 +8,9 @@ date: 2017-10-30
 **What to learn**
   What to learn or as importantly what not to learn is a very big part of not just developing technical expertise but also
   away from the computer. I had a chance to catch up with an excellent talk by Laracasts Jeffrey Way at Laracon 2015 entitled
+  Things Laravel Made Me Believe, here is the Youtube link, the talk lasts about an hour and it well worth watching.
   
-        Things Laravel Made Me Believe - https://www.youtube.com/watch?v=mDotS5BDqRM
+         - https://www.youtube.com/watch?v=mDotS5BDqRM
   
   
   The talk itself illuminates how much there is to learn and how important the process of continuous learning actually is,
