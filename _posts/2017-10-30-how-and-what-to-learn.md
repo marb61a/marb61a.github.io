@@ -10,12 +10,13 @@ date: 2017-10-30
   away from the computer. I had a chance to catch up with an excellent talk by Laracasts Jeffrey Way at Laracon 2015 entitled
   
         Things Laravel Made Me Believe - https://www.youtube.com/watch?v=mDotS5BDqRM
+  
+  
   The talk itself illuminates how much there is to learn and how important the process of continuous learning actually is,
   it also shows from a really well known person that there are limits to what you can and should learn. The difficulty a lot
   of people seem to have with what to learn revolves around trendy frameworks and buzzwords, I found the solution that works
   best for me is to understand what lies beneath, Angular, React etc become much more manageable when truly understanding the
-  language underneath and then understand why the abstractions the frameworks use are used in the first place, this makes things
-  much easier to learn and understand.
+  language underneath and then understand why the abstractions the frameworks use are used in the first place, this makes       things much easier to learn and understand.
 
 **Deliberate Practice**
   I am a big fan of the idea of Deliberate Practice, which is from the work of Swedish psychologist K. Anders Ericsson, his 
