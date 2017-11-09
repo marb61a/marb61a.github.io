@@ -13,12 +13,12 @@ date: 2017-11-08
   
     - Install Composer & PHP and then install Laravel, creating a project is then just a matter of a couple of commands
         
-        - composer create-project --prefer-dist laravel/laravel project-name "5.4.*" 
-          - This creates a project using the Laravel 5.4 version
-        
-        - php artisan serve 
-          - This will run the project on http://localhost:8000
-          - This will need to be added to your path or you will have to go into the project folder each time
+    - composer create-project --prefer-dist laravel/laravel project-name "5.4.*" 
+      - This creates a project using the Laravel 5.4 version
+
+    - php artisan serve 
+      - This will run the project on http://localhost:8000
+      - This will need to be added to your path or you will have to go into the project folder each time
     
     
     - Homestead
@@ -37,8 +37,13 @@ date: 2017-11-08
   After getting my Laravel setup and running far too smoothly it was the turn of PHPMyAdmin to cause an issue and it did not
   disappoint, after the installation of the application there was no connection so I went back to basics
       
-        Install the needed software            - sudo apt-get install apache2 php mysql-server
-        Install the phpmyadmin apackage        - sudo apt-get install phpmyadmin
+  Install the additional needed software            
+  
+      - sudo apt-get install apache2 php mysql-server
+        
+  Install the phpmyadmin apackage        
+  
+      - sudo apt-get install phpmyadmin
  
  
   Normally you will accept Apache2 and dbconfig-common during the installation process, unfortunately this is where
@@ -46,16 +51,19 @@ date: 2017-11-08
   a few basics
       
         sudo apt-get purge phpmyadmin*         
-        - This resets and there is no space between the n and the asterisk
- 
- 
-  This did not have the desired effect so I tried this 
+  
+  This resets and there is no space between the n and the asterisk it did not have the desired effect so I tried this 
+  
   
         sudo gedit /etc/apache2/apache2.conf    
-        - Needs elevated permissions to edit this file
         
+         
+  Sudo is used because of the need for elevated permissions to edit this file
+
+
         Include /etc/phpmyadmin/apache.conf     
-        - Added at file's end 
+       
+  This will be appended to the end of the file 
         
         /etc/init.d/apache2 restart             
         - To restart your Apache server, have root password handy
@@ -64,11 +72,13 @@ date: 2017-11-08
   Again no dice but then a single command helped
       
       
-      sudo dpkg-reconfigure phpmyadmin          - You will be given an option to get rid of existing stuff, getting rid
-                                                  of it worked for me.
+      sudo dpkg-reconfigure phpmyadmin          
+ 
+ 
+  You will be given an option to get rid of existing stuff, getting rid of it worked for me.
 
-
-  Once again command line 1 gui based tools 0 when it comes to clearing up isues
+  Once again command line 1 gui based tools 0 when it comes to clearing up issues, this seems to be a 
+  theme of late.
   
 
 **Good Reads**
