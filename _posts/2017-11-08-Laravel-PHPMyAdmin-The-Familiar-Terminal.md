@@ -9,7 +9,9 @@ date: 2017-11-08
 **Laravel**
   I had originally decided to install and tryout Laravel on my Cloud9 account but I decided to take the plunge on
   my Ubuntu system. I will stick with my Linux systems installation (Ubuntu & Mint) and will leave Windows 10 well
-  enough alone. The installation of laravel itself was really quick, there are a few different installation options
+  enough alone. 
+  
+  The installation of laravel itself was really quick, there are a few different installation options
   
   
   - Install Composer & PHP and then install Laravel, creating a project is then just a matter of a couple of commands
@@ -52,10 +54,13 @@ date: 2017-11-08
  
  
   Normally you will accept Apache2 and dbconfig-common during the installation process, unfortunately this is where
-  things started to cause an issue, there was no connection to the localhost url. I decided to tackle it by doing
-  a few basics
+  things started to cause an issue, there was no connection to the phpmyadmin localhost url. 
+  
+  
+  I decided to tackle it by doing a few basic tasks to see if it would resolve the issue
       
         sudo apt-get purge phpmyadmin*         
+  
   
   This resets and there is no space between the n and the asterisk it did not have the desired effect so I tried this 
   
@@ -71,7 +76,9 @@ date: 2017-11-08
   This will be appended to the end of the file 
         
         /etc/init.d/apache2 restart             
-        - To restart your Apache server, have root password handy
+  
+  
+  To restart your Apache server, have your root password handy
  
  
   Again no dice but then a single command helped
