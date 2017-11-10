@@ -14,32 +14,35 @@ date: 2017-11-08
   The installation of laravel itself was really quick, there are a few different installation options
   
   
-  - Install Composer & PHP and then install Laravel, creating a project is then just a matter of a couple of commands
-        
+  Install Composer & PHP and then install Laravel, creating a project is then just a matter of a couple of commands
+  
+  
     - composer create-project --prefer-dist laravel/laravel project-name "5.4.*" 
   
   This creates a project using the Laravel 5.4 version
 
+
     - php artisan serve 
     
-  - This will run the project on http://localhost:8000
-  - This will need to be added to your path or you will have to go into the project folder each time
+  This will run the project on http://localhost:8000
+  
+  It will also need to be added to your path or you will have to go into the project folder each time
     
     
- - Homestead
- 
-    - Basically a prebuilt VM to avoid the installation of multiple software apps and dependencies on your system
-    - https://laravel.com/docs/5.5/homestead
-    - Because the project is based on Vagrant, it will be immensely portable and should be easier to manage.
-      
-  - Laragon
-  
-    - Another project similar to Homestead but a bit more lightweight
-    - https://laragon.org
-    - I have not had the chance to use this but plan to very quickly as it is getting very good reviews 
+- Homestead
+
+  - Basically a prebuilt VM to avoid the installation of multiple software apps and dependencies on your system
+  - https://laravel.com/docs/5.5/homestead
+  - Because the project is based on Vagrant, it will be immensely portable and should be easier to manage.
+
+- Laragon
+
+  - Another project similar to Homestead but a bit more lightweight
+  - https://laragon.org
+  - I have not had the chance to use this but plan to very quickly as it is getting very good reviews 
 
 
-  
+
   **PHPMYADMIN**
   After getting my Laravel setup and running far too smoothly it was the turn of PHPMyAdmin to cause an issue and it did not
   disappoint, after the installation of the application there was no connection so I went back to basics
