@@ -36,11 +36,11 @@ date: 2017-11-14
   There are a plethora of CSS frameworks, libraries, tools, techniques and layout models available for anybody developing 
   a site or sites, this is without custom
     
-  - https://foundation.zurb.com/sites.html                                  -- Foundation 6
-  - https://v4-alpha.getbootstrap.com                                       -- Bootstrap
-  - https://css-tricks.com/snippets/css/a-guide-to-flexbox/                 -- Flexbox
-  - http://sass-lang.com                                                    -- Sass
-  - http://postcss.org                                                      -- PostCSS
+  - https://foundation.zurb.com/sites.html                                  
+  - https://v4-alpha.getbootstrap.com                                       
+  - https://css-tricks.com/snippets/css/a-guide-to-flexbox/                 
+  - http://sass-lang.com                                                    
+  - http://postcss.org                                                      
   
   These are only some of the options available without thinking of things such as SkeletonCSS and mobile frameworks such
   as Framework 7. This comes against a backdrop of increasing complexity on the Frontend, I personally like Bootstrap 4 as it
