@@ -1,4 +1,5 @@
-**ABOUT ME**
+Alt-H2ABOUT ME
+======
 
 Hi my name is Martin, I live in Dublin, Ireland and this is my site coutesy of GitHub pages.
 I am interested in a wide variety of technology related subjects mainly within
@@ -12,7 +13,8 @@ RxJS and functional programming.
 Aside from technology I can usually be found annoying some poor soul about various sports matters particularly football 
 and music of various types.
 
-**EXPERIENCE**
+Alt-H2EXPERIENCE
+======
 I have a variety of work experience both within IT and in different sectors
   - Administering websites
   - Developing apps
@@ -24,7 +26,9 @@ I have a variety of work experience both within IT and in different sectors
   - Extensive experience of working with customers of a wide variety of backgrounds
   - Electronics
 
-**EDUCATION**
+
+Alt-H2EDUCATION
+======
 I am a firm believer in further and continuing education, on the formal side I have several diplomas covering
   - Business & E-Business Management
   - Electronic Manufacturing
