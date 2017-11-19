@@ -1,4 +1,4 @@
-Alt-H2ABOUT ME
+ABOUT ME
 ======
 
 Hi my name is Martin, I live in Dublin, Ireland and this is my site coutesy of GitHub pages.
@@ -13,21 +13,21 @@ RxJS and functional programming.
 Aside from technology I can usually be found annoying some poor soul about various sports matters particularly football 
 and music of various types.
 
-Alt-H2EXPERIENCE
+EXPERIENCE
 ======
 I have a variety of work experience both within IT and in different sectors
-  - Administering websites
-  - Developing apps
-  - Digital Marketing
-  - Hardware & Software maintenance, installation and repair
-  - Project Work
-  - Training
-  - Working with contractors and onsite visits.
-  - Extensive experience of working with customers of a wide variety of backgrounds
-  - Electronics
+  - **Administering websites**
+  - **Developing apps**
+  - **Digital Marketing**
+  - **Hardware & Software maintenance, installation and repair**
+  - **Project Work**
+  - **Training**
+  - **Working with contractors and onsite visits.**
+  - **Extensive experience of working with customers of a wide variety of backgrounds**
+  - **Electronics**
 
 
-Alt-H2EDUCATION
+EDUCATION
 ======
 I am a firm believer in further and continuing education, on the formal side I have several diplomas covering
   - Business & E-Business Management
@@ -38,11 +38,11 @@ I am a firm believer in further and continuing education, on the formal side I h
 
 Some recent sample e-learning course diplomas are available at the following addresses
 
-Social Media Management - [SO ME Academy](https://drive.google.com/file/d/0B2-8nmrv8gVuX1VVZHh2MEloLW8/view?usp=sharing)
+**Social Media Management** - [SO ME Academy](https://drive.google.com/file/d/0B2-8nmrv8gVuX1VVZHh2MEloLW8/view?usp=sharing)
 
-Social Media Strategist - [Career Academy](https://drive.google.com/file/d/0B2-8nmrv8gVuWllidUdRQnFUeU0/view?usp=sharing)
+**Social Media Strategist** - [Career Academy](https://drive.google.com/file/d/0B2-8nmrv8gVuWllidUdRQnFUeU0/view?usp=sharing)
 
-Landing Page Design - [Udemy](https://drive.google.com/file/d/0B2-8nmrv8gVuekVDbHJaczAtTU0/view?usp=sharing)
+**Landing Page Design** - [Udemy](https://drive.google.com/file/d/0B2-8nmrv8gVuekVDbHJaczAtTU0/view?usp=sharing)
 
-Web Development - [YouAccel](https://drive.google.com/open?id=0B2-8nmrv8gVub2tUam5Na2l3UlU)
+**Web Development** - [YouAccel](https://drive.google.com/open?id=0B2-8nmrv8gVub2tUam5Na2l3UlU)
 
