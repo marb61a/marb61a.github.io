@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blackhat UX, Structured Data and Random Stuff"
+title: "Ubuntu 17-10 Intstallation And Other Bits"
 date: 2017-11-23
 ---
 
