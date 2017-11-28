@@ -1,17 +1,29 @@
 ABOUT ME
 ======
 
-Hi my name is Martin, I live in Dublin, Ireland and this is my site coutesy of GitHub pages.
-I am interested in a wide variety of technology related subjects mainly within
-  - Web & Mobile Development
+Hi my name is Martin, I live in Dublin, Ireland and this is my GitHub pages page.
+I have both worked and am intereated in a wide variety of technology related subjects mainly within Web & Mobile Development
+covering 
+
+  - App Development(Both web and mobile, especially multi-platform and hybrid apps)
   - Security
+  - Deployment
+  - Performance
 
 At the moment I am exploring the rather large and expanding Javascript ecosystem from Node JS on the server to
-Ionic & React Native on mobile devices and from old favourites such as jQuery through to newer libraries such as
-RxJS and functional programming.
+React Native on mobile devices and from old favourites such as jQuery through to newer libraries such as RxJS and functional programming.
 
 Aside from technology I can usually be found annoying some poor soul about various sports matters particularly football 
-and music of various types.
+and music of various genres.
+
+
+TECHNICAL SKILLS
+================
+  **- LANGUAGES**               - JavaScript, HTML5, CSS3, PHP
+  **- FRAMEWORKS**              - NodeJS, React, Vue, Wordpress, Laravel
+  **- OPERATING SYSTEMS**       - Windows(XP -> 10), Linux(Mainly .deb based distros eg Ubuntu, Mint etc), Android
+  **- OTHER**                   - UX, UI & Usability, SEO, ECommerce, Version Control
+  
 
 EXPERIENCE
 ======
