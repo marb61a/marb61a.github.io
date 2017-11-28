@@ -20,23 +20,35 @@ and music of various genres.
 TECHNICAL SKILLS
 ================
   **- LANGUAGES**               - JavaScript, HTML5, CSS3, PHP
+  
   **- FRAMEWORKS**              - NodeJS, React, Vue, Wordpress, Laravel
+  
   **- OPERATING SYSTEMS**       - Windows(XP -> 10), Linux(Mainly .deb based distros eg Ubuntu, Mint etc), Android
+  
   **- OTHER**                   - UX, UI & Usability, SEO, ECommerce, Version Control
   
 
 EXPERIENCE
 ======
 I have a variety of work experience both within IT and in different sectors
-  - **Administering websites**
-  - **Developing apps**
-  - **Digital Marketing**
-  - **Hardware & Software maintenance, installation and repair**
-  - **Project Work**
-  - **Training**
-  - **Working with contractors and onsite visits.**
-  - **Extensive experience of working with customers of a wide variety of backgrounds**
-  - **Electronics**
+
+  **- Administering websites**
+  
+  **- Developing apps**
+  
+  **- Digital Marketing**
+  
+  **- Hardware & Software maintenance, installation and repair**
+  
+  **- Project Work**
+  
+  **- Training**
+  
+  **- Working with contractors and onsite visits.**
+  
+  **- Extensive experience of working with customers of a wide variety of backgrounds**
+  
+  **- Electronics**
 
 
 EDUCATION
