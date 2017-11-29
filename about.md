@@ -1,20 +1,7 @@
 ABOUT ME
 ======
 
-Hi my name is Martin, I live in Dublin, Ireland and this is my GitHub pages page.
-I have both worked and am intereated in a wide variety of technology related subjects mainly within Web & Mobile Development
-covering 
-
-  - App Development(Both web and mobile, especially multi-platform and hybrid apps)
-  - Security
-  - Deployment
-  - Performance
-
-At the moment I am exploring the rather large and expanding Javascript ecosystem from Node JS on the server to
-React Native on mobile devices and from old favourites such as jQuery through to newer libraries such as RxJS and functional programming.
-
-Aside from technology I can usually be found annoying some poor soul about various sports matters particularly football 
-and music of various genres.
+Hi my name is Martin, I live in the city of Dublin in Ireland and this is my web page.
 
 
 TECHNICAL SKILLS
@@ -60,7 +47,8 @@ I am a firm believer in further and continuing education, on the formal side I h
   - Project Management
   - Android Development(Java) 
 
-Some recent sample e-learning course diplomas are available at the following addresses
+
+Some recent sample course diplomas are available at the following addresses
 
 **Social Media Management** - [SO ME Academy](https://drive.google.com/file/d/0B2-8nmrv8gVuX1VVZHh2MEloLW8/view?usp=sharing)
 
@@ -69,4 +57,14 @@ Some recent sample e-learning course diplomas are available at the following add
 **Landing Page Design** - [Udemy](https://drive.google.com/file/d/0B2-8nmrv8gVuekVDbHJaczAtTU0/view?usp=sharing)
 
 **Web Development** - [YouAccel](https://drive.google.com/open?id=0B2-8nmrv8gVub2tUam5Na2l3UlU)
+
+
+PERSONAL INTERESTS
+==================
+I am always experimenting and you can find my projects on GitHub which at this time counts at about 130 covering
+everything from PHP & Ruby to JS & Python.
+
+Aside from technology I can usually be found annoying some poor soul about various sports matters particularly football 
+and music of various genres.
+
 
