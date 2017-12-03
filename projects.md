@@ -1,9 +1,14 @@
-**PROJECTS**
+PROJECTS
+========
+
 I am constantly experimenting and evaluating technologies to keep up to date with the latest developments and trends across web and mobile development and to this end I have numerous projects here on Github as well as elsewhere. As I use a range of OS (Various Windows versions & Linux distros) I use the Cloud9 IDE a lot for projects. 
 
 I am available for collaboration at my Cloud 9 address which is located at
   - (https://c9.io/marb)
+  
 
+TECHNOLOGIES
+------------
 A non-exhaustive list of the technologies that are used in the projects are - 
 
 ***Javascript***
@@ -23,18 +28,21 @@ A non-exhaustive list of the technologies that are used in the projects are -
    - Git, DNS, OAuth, Authentication, Security, PWA, SPA, REST, GraphQL
 
 
-Below are some sample projects deployed for demonstration purposes
+DEPLOYMENTS
+----------
+Below are some sample projects deployed for demonstration purposes This list is a constantly evolving one so changes 
+will occur on a regular basis and each of the projects themselves are under development too
 
 
-**Javascript Projects**
+***Javascript Projects***
 * [react node app](https://fullstackreactnode.herokuapp.com)
 
-*[]
+*[react_tdd_expense_app]
 
-*[]
+*[node_realtime_chat_app]
 
 
-**Rails Projects**
+***Rails Projects***
 
 [rails recipes app](https://railstastyrecipes.herokuapp.com)
 
@@ -43,5 +51,7 @@ Below are some sample projects deployed for demonstration purposes
 [Rails workout app ](https://webworkouts.herokuapp.com)
 
 
-This list is a constantly evolving one so changes will occur on a regular basis
+***PHP Projects***
+[facebook_clone]
 
+[spotify_clone]
