@@ -73,6 +73,7 @@ date: 2017-11-23
   
   
   **Good Reads**
+  
     - https://blog.prototypr.io/5-secrets-to-design-an-excellent-ux-designer-resume-and-get-hired-981628826946
     
     - https://medium.com/swlh/i-have-an-idea-for-an-app-now-what-5bfe9e95148f
