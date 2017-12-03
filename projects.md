@@ -42,16 +42,19 @@ will occur on a regular basis and each of the projects themselves are under deve
 *[node_realtime_chat_app]
 
 
+
 ***Rails Projects***
 
-[rails recipes app](https://railstastyrecipes.herokuapp.com)
+* [rails recipes app](https://railstastyrecipes.herokuapp.com)
 
-[stock tracker](https://stocks-tracker.herokuapp.com/users/sign_in)
+* [stock tracker](https://stocks-tracker.herokuapp.com/users/sign_in)
 
-[Rails workout app ](https://webworkouts.herokuapp.com)
+* [Rails workout app ](https://webworkouts.herokuapp.com)
+
 
 
 ***PHP Projects***
-[facebook_clone]
+* [facebook_clone]
 
-[spotify_clone]
+
+* [spotify_clone]
