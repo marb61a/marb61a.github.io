@@ -1,7 +1,8 @@
 ABOUT ME
 ======
 
-Hi my name is Martin, I live in the city of Dublin in Ireland and this is my web page.
+Hi my name is Martin, I live in the city of Dublin in Ireland and this is a page that tells just a little bit
+about me.
 
 
 TECHNICAL SKILLS
@@ -18,35 +19,28 @@ TECHNICAL SKILLS
 EXPERIENCE
 ----------
 I have a variety of work experience both within IT and in other sectors such as High Volume Manufacturing (Electronic)
-
+covering 
 
   **- Hardware & Software maintenance, installation and repair**
 
   **- Developing, designing and administering websites, apps and Social Media platform accounts**
   
   **- Digital Marketing**
-    
-  **- Project Work**
-  
-  **- Working with contractors and customers of a wide variety of backgrounds**
-  
-  **- Providing on the job training**
-  
+          
   **- Electronics**
 
 
-I am available for assignments both in Ireland and on a remote basis, this includes contract work as well
-as White Label assignments. I can be contacted at my email addresses if you have a project or assignment that
-you would like to talk about.
+I am available for assignments, contract work and a more permanent position both in Ireland and on a remote basis, this includes contract work as well as White Label assignments. I can be contacted at my email addresses if you have a project or assignment that you would like to talk about.
  
-  marb61a@gmail.com
+  - marb61a@gmail.com
   
-  marb61a@outlook.ie
+  - marb61a@outlook.ie
 
 
 EDUCATION
 ---------
 I am a firm believer in further and continuing education, on the formal side I have several diplomas covering
+
   - Business & E-Business Management
   - Electronic Manufacturing
   - Customer Service
