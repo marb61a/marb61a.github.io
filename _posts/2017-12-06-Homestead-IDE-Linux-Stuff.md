@@ -19,7 +19,7 @@ date: 2017-12-06
         
         !!! You may need to do some preliminary work prior to these commands
         
-        Setup an apt repository(In this case Ubuntu 17.04) by editing/etc/apt/sources.list file and adding the following line
+        Setup an apt repository(In this case Ubuntu 17.04) by editing/etc/apt/sources.list file and adding the following
         
         
             deb http://download.virtualbox.org/virtualbox/debian zesty contrib
@@ -68,26 +68,50 @@ date: 2017-12-06
             to: /home/vagrant/directory_name
     
     
-    7 -
+    7 - Setup Composer
     
- 
- 
+    
+        sudo composer global require "laravel/installer"
+    
+    
+    8 - Start a new Laravel project
+    
+        laravel new project_name
+    
+    
+    9 - Fire up the Vagrant box
+    
+        vagrant up
+    
+  This was pretty much the process that I followed with a few extra bits
+    - I was able to boot the vagrant box up directly from Virtual Box right to the command line, this asks for a password
+    and login, in both cases the word vagrant got everything up and running smoothly
+    
+    - You can have a folder mapping scheme that has one for each project or one for all projects, the former is apparently
+    the preferred methodology
+    
+    - In order to have a specific domain eg example.dev you will have to edit the /etc/hosts file and add an entry which
+    points to the virtual machine address for example
+    
+        sudo gedit /etc/hosts
+     
+    Then add
+    
+        192.168.10.10
+   
+   
+   After that I was running smoothly, I think it is a lengthy enough process but I do think that it is probably only
+   because it was the first time and if I need that machine to be portable then putting in an extra few moments at the
+   start could have huge benefits. 
   
-**Linux** 
+  
+**Linux -** 
   I really do enjoy using Linux far more than I have ever done on Windows. I have a Windows OS at all times since the days
   of Windows 3.11 and Linux since 2004, I had Warty Warthog from Ubuntu running as well as Slackware and Mandriva all of 
   which I loved using.
   
-  I have been reading through some old notes on security challenges and capture the flag wargames and some commands I
-  think I could certainly make more use of now including the z commands. Essentially the z flag is added to commands to
-  enable working with compressed files without having to go through the whole extraction procedure
-  
-    Zcat
-    
-      zcat filename.gz  
  
- 
- **IDE's**
+ **IDE's -**
   I seem to be accumulating a great many IDE's and Code Editors on my system of late, I have installed
   
     Android Studio - For Android, React Native & PWA apps
@@ -105,4 +129,10 @@ date: 2017-12-06
     
 
 **Good Reads**
-  - 
+  - https://thinkgrowth.org/building-tools-can-provide-better-roi-than-blogging-ec87e304c47d
+  
+  - https://medium.com/personal-growth/self-improvement-has-made-me-worse-a4cc23e93e7a
+  
+  - https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154
+  
+  - https://codeburst.io/the-2-types-of-software-engineering-interviews-and-how-to-prepare-for-them-2e7bd4daa0b
