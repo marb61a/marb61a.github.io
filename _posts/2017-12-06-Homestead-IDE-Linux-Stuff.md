@@ -17,15 +17,15 @@ date: 2017-12-06
             sudo apt-get install virtualbox-5.2
 
         
-        !!! You may need to do some preliminary work prior to these commands
+   !!! You may need to do some preliminary work prior to these commands
         
-        Setup an apt repository(In this case Ubuntu 17.04) by editing/etc/apt/sources.list file and adding the following
+   Setup an apt repository(In this case Ubuntu 17.04) by editing/etc/apt/sources.list file and adding 
         
         
            deb http://download.virtualbox.org/virtualbox/debian zesty contrib
         
         
-        Import the Virtualbox package sign key
+   Import the Virtualbox package sign key
         
         
             wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
@@ -94,11 +94,12 @@ date: 2017-12-06
   - In order to have a specific domain eg example.dev you will have to edit the /etc/hosts file and add an entry which
   points to the virtual machine address for example
     
-        sudo gedit /etc/hosts
+      sudo gedit /etc/hosts
      
   Then add
     
-        192.168.10.10
+    
+      192.168.10.10
    
    
  After that I was running smoothly, I think it is a lengthy enough process but I do think that it is probably only
@@ -107,10 +108,9 @@ date: 2017-12-06
   
   
 **Linux -** 
-  I really do enjoy using Linux far more than I have ever done on Windows. I have a Windows OS at all times since the days
-  of Windows 3.11 and Linux since 2004, I had Warty Warthog from Ubuntu running as well as Slackware and Mandriva all of 
-  which I loved using. I have learned much much more from Linux just by going through simple installs, removals and editing
-  of packages. I guess sometimes there can be too much done for you for it to be a good thing
+  I really do enjoy using Linux far more than I have ever done Windows. I have a Windows OS at all times since the days
+  of Windows 3.11 but have been a Linux user since 2004, where I started with Warty Warthog from Ubuntu running as well as     Slackware and Mandriva all of which I loved using especially Slackware which may have been the fastest system I have ever   installed. I have learned much much more from Linux just by going through simple tasks such as package installs, removals   and setting up these applications. I rarely have to do a make install command these days due to how well these packages
+  are put together but sometimes I do miss the dependency issues that taught me so much.
   
  
  **IDE's -**
@@ -127,14 +127,15 @@ date: 2017-12-06
   
   This is without the Cloud9, JSBin, Plunkr and StackBlitz accounts I have. I enjoy the idiosyncracies of each
   but I do wonder about whether there is a magic tool that would let me use all in one or maybe I just like being able
-  to switch back and forth.
+  to switch back and forth between each tool.
     
 
 **Good Reads**
-  - https://thinkgrowth.org/building-tools-can-provide-better-roi-than-blogging-ec87e304c47d
+
+https://thinkgrowth.org/building-tools-can-provide-better-roi-than-blogging-ec87e304c47d
   
-  - https://medium.com/personal-growth/self-improvement-has-made-me-worse-a4cc23e93e7a
+https://medium.com/personal-growth/self-improvement-has-made-me-worse-a4cc23e93e7a
   
-  - https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154
+https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154
   
-  - https://codeburst.io/the-2-types-of-software-engineering-interviews-and-how-to-prepare-for-them-2e7bd4daa0b
+https://codeburst.io/the-2-types-of-software-engineering-interviews-and-how-to-prepare-for-them-2e7bd4daa0b
