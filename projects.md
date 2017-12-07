@@ -1,11 +1,8 @@
 PROJECTS
 ========
 
-I am constantly experimenting and evaluating technologies to keep up to date with the latest developments and trends across web and mobile development and to this end I have numerous projects here on Github as well as elsewhere. As I use a range of OS (Various Windows versions & Linux distros) I use the Cloud9 IDE a lot for projects. 
+I am constantly experimenting and evaluating technologies to keep up to date with the latest developments and trends across web and mobile development and to this end I have numerous projects here on Github as well as elsewhere.
 
-I am available for collaboration at my Cloud 9 address which is located at
-  - (https://c9.io/marb)
-  
 
 TECHNOLOGIES
 ------------
@@ -13,7 +10,6 @@ A non-exhaustive list of the technologies that are used in the projects are -
 
 ***Javascript***
 - Angular/AngularJS, React & React Native, Meteor, Node, Ionic, Electron, Vue, JQuery
-- Gulp, Webpack, NPM, Yarn, JWT
 
 ***PHP***
 - Laravel, Wordpress
@@ -25,7 +21,7 @@ A non-exhaustive list of the technologies that are used in the projects are -
   - MongoDB, Firebase, PostgreSQL, Redis
   
 ***General Development***
-   - Git, DNS, OAuth, Authentication, Security, PWA, SPA, REST, GraphQL
+   - Git, DNS, OAuth, Authentication, Security, PWA, SPA, REST, GraphQL, Gulp, Webpack, NPM, Yarn, JWT
 
 
 DEPLOYMENTS
@@ -37,7 +33,7 @@ will occur on a regular basis and each of the projects themselves are under deve
 ***Javascript Projects***
 * [react node app](https://fullstackreactnode.herokuapp.com)
 
-*[react_tdd_expense_app]
+*[react_tdd_expense_app](https://react-expensez.herokuapp.com)
 
 *[node_realtime_chat_app]
 
