@@ -61,15 +61,78 @@ date: 2017-12-06
     export PATH=$PATH:$ANDROID_HOME/platform-tools
     
     
-  Then you 
+  Then you can generate the profile using
     
+    $ react-native init project
   
+  
+  To run the app you will do the following
+    
+    $ cd project
+    
+    $ react-native run-android.
+  
+  
+  You can then import this project into Android Studio using the import existing project feature when
+  the application starts up.
+  
+  I tend not to use the built in emulators that are built into Android Studio, I have been using Genymotion
+  for a few years now and it has a fantastic free version available.
+  
+  - https://www.genymotion.com
+ 
+  You will need to register and download the package, this comes as a .bin file so to install is
+    
+    $ sudo chmod +x genymotionfile.bin
+    
+    $ ./genymotionfile.bin
+  
+  
+  Once the app starts up you have to register to download devices but they are very fast, the fastest that I have used.
+  
+  This is as far as I have gotten at this point as I am building a sample CRM app with React Native to see how it goes.
   
   
 **Vue -** 
   The last couple of weeks I have been playing with Vue.js on my Cloud9 setup, it is a very clean framework and very
-  very quick
-
+  very quick. There are only a few steps to getting a sample app upp and running
+  
+  To install the vue-cli package
+  
+     npm install -g vue-cli
+  
+  
+  To then generate a project
+  
+    vue init webpack-simple
+  
+  
+  Then change to the project directory
+  
+    cd project
+  
+  
+  Then add the following line to the webpack.config.js  file under devServer, this will differ for each user
+    
+    public: "https://c9.container.name"
+  
+  
+  I also added the following to avoid header mismatch errors
+    
+    historyApiFallback: true
+    
+    
+  In package.json add the following under scripts
+  
+    dev“: “cross-env NODE_ENV=development webpack-dev-server --open --inline --hot --host $IP --port $PORT”
+  
+  
+  To run the project
+  
+    npm run dev
+    
+  
+  You should get a link which will open a new tab with your running app
     
 
 **Good Reads**
@@ -77,5 +140,8 @@ https://thinkgrowth.org/how-to-build-a-saas-platform-3rd-party-developers-will-l
 
 https://medium.com/swlh/how-much-does-it-cost-to-design-an-application-a-comprehensive-guide-to-app-design-7c03e579b38
 
+https://medium.com/swlh/8-reasons-most-people-arent-successful-and-8-ways-to-ensure-you-ll-succeed-7e8be17e5187
 
+https://blog.prototypr.io/how-to-collaborate-on-design-with-developers-8aac41991194
 
+https://medium.com/swlh/explaining-blockchain-with-coconuts-and-pineapples-e44edcbe2e0f
