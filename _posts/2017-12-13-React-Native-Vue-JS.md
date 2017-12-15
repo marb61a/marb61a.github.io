@@ -112,12 +112,12 @@ date: 2017-12-06
     cd project
   
   
-  Then add the following line to the webpack.config.js  file under devServer, this will differ for each user
+  Then add the following line to the webpack.config.js file under devServer, this will differ for each user
     
     public: "https://c9.container.name"
   
   
-  I also added the following to avoid header mismatch errors
+  I also added the following to avoid header mismatch errors, again under devServer
     
     historyApiFallback: true
     
@@ -132,7 +132,10 @@ date: 2017-12-06
     npm run dev
     
   
-  You should get a link which will open a new tab with your running app
+  This if working correctly will generate a link which will open a new tab with your running app and then 
+  you can begin building your project with Vue.
+    
+    
     
 
 **Good Reads**
