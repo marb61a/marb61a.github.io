@@ -19,8 +19,7 @@ date: 2017-12-22
 **Java -** 
   I have started to get back into Java somewhat over the last few weeks with using Android Studio and it has been a couple
   of years but I like the look  of the latest version of Spring. I will try out a few small projects, I did have a wry smile
-  though given the well known criticism of Java for its large amount of boilerplate code, but how much code is involved in some
-  of the JS frameworks.
+  though given the well known criticism of Java for its large amount of boilerplate code, but how much code is involved in     some of the JS frameworks.
   
   I am going to do some Android projects as I am a bit rusty and there have been some real changes over the last couple of
   years as is to be expected. I am very interested in the material design stuff and the security stuff as I was intrigued by
@@ -30,11 +29,18 @@ date: 2017-12-22
 
 
 
-**2018 - **
+**2018 -**
   I wonder what the technology gods have in store for us all with the new year not long away, I personally am hoping for
   a slowdown in must know technologies and also a fervent prayer that when I use a cli project generator like react-cli
   and especially angular-cli that these projects actually run without having to spend hours looking for work arounds :)
 
+
+
+**Tip for the top 2018**
+  I have a sneaky suspicion that this will be the year for Vue.js as it has many of the advantages of both React & Angular.
+  I also think that there could be less new frameworks and instead better existing ones, React 16 kicked that off a few weeks
+  ago and Ember 3 is due up in the next couple of months and is usually a rock solid option which is why LinkedIn and 
+  Groupon are among its sponsors and users.
     
 
 **Good Reads**
