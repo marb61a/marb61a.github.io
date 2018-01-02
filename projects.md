@@ -14,6 +14,9 @@ A non-exhaustive list of the technologies that are used in the projects are -
 ***PHP***
 - Laravel, Wordpress
 
+***Java***
+- Android Native, Spring 5
+
 ***General Web Development***
  - HTML5, CSS3, Bootstrap 3 & 4, Foundation 6
 
@@ -22,6 +25,7 @@ A non-exhaustive list of the technologies that are used in the projects are -
   
 ***General Development***
    - Git, DNS, OAuth, Authentication, Security, PWA, SPA, REST, GraphQL, Gulp, Webpack, NPM, Yarn, JWT
+   - STS, Android Studio, Eclipse, Visual Studio Code, Sublime, Cloud9, 
 
 
 DEPLOYMENTS
@@ -54,3 +58,7 @@ will occur on a regular basis and each of the projects themselves are under deve
 
 
 * [spotify_clone]
+
+
+
+***Java Projects***
