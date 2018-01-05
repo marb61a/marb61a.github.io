@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 17-10 Intstallation And Other Bits"
+title: "Ubuntu 17-10 Installation And Other Bits"
 date: 2017-11-23
 ---
 
