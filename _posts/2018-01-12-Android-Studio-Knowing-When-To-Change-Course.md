@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Android Studio and knowing when to change course"
-date: 2018-01-05
+date: 2018-01-12
 ---
 
 
