@@ -28,37 +28,8 @@ A non-exhaustive list of the technologies that are used in the projects are -
    - STS, Android Studio, Eclipse, Visual Studio Code, Sublime, Cloud9, 
 
 
-DEPLOYMENTS
+PORTFOLIO
 ----------
-Below are some sample projects deployed for demonstration purposes This list is a constantly evolving one so changes 
-will occur on a regular basis and each of the projects themselves are under development too
+My projects can be found in portfolio format at the following address
 
-
-***Javascript Projects***
-* [react node app](https://fullstackreactnode.herokuapp.com)
-
-*[react_tdd_expense_app](https://react-expensez.herokuapp.com)
-
-*[node_realtime_chat_app]
-
-
-
-***Rails Projects***
-
-* [rails recipes app](https://railstastyrecipes.herokuapp.com)
-
-* [stock tracker](https://stocks-tracker.herokuapp.com/users/sign_in)
-
-* [Rails workout app ](https://webworkouts.herokuapp.com)
-
-
-
-***PHP Projects***
-* [facebook_clone]
-
-
-* [spotify_clone]
-
-
-
-***Java Projects***
+https://www.gitshowcase.com/marb61a
